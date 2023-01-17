@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# ℹ️ TodoWeb Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* Todoweb is a website for to-do lists. It is built with the ReactJS framework.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+# 🌐 Preview of the Website
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+# 📱Preview of the Responsive Design
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# 🗂️ Framework & Languages
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* This project makes use of the Framework and Language listed below.to run this project. This framework and language have been installed in
+system with the same version or the latest version
 
-### `npm run eject`
+| Framework  | Version |
+| ------------- | ------------- |
+| **Nodejs**  | 18.12.1  |
+| **Tailwindcss** | 3.2.4 |
+| **Reactjs** | 18.2.0 |
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# 👨‍💻 Project Execution Command 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash 
+npm start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+# 📦 Dependencies for project execution. To install, run the commands listed below. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Without these dependencies, the project will not execute.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm install
+```
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# ⬇️ Code Downloading Process
 
-### Analyzing the Bundle Size
+* There are 2 ways to get the code.
+* Choose whichever method best suits your needs. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+# Ⓜ️ Method 1
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* **This method is very easy.**
 
-### Advanced Configuration
+* Now select the **code option.** 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Screenshot (158)](https://user-images.githubusercontent.com/66934377/164152919-f2854829-535d-4227-9c2f-031f8051f6ac.png)
 
-### Deployment
+* Now a screen will pop up. Now select the **Download Zip** option. Now the file has started downloading.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Screenshot (159)](https://user-images.githubusercontent.com/66934377/164153128-b64e85a2-e40c-4457-9835-a749ac79acd6.png)
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Ⓜ️ Method 2
+
+* **This method is a little difficult.**
+
+* Now In **Windows, open cmd, in Mac, bash Terminal**. Now Hit the below commands.
+
+```bash
+git clone https://github.com/Manju1392k/TodoWeb.git
+```
+
+* The project was cloned after this process.
